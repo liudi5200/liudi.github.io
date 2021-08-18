@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: "liudi"
+name: "代码备用"
 # Short bio or description (displayed in the header)
 description: "分享、记录、成长"
 
@@ -22,7 +22,8 @@ favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/fa
 navigation:
   - name: 首页
     url: /
-  
+  - name: 关于
+    url: /about
   - name: 归档
     url: /archive
   - name: 标签
@@ -42,7 +43,7 @@ footer-links:
   email: 
   facebook:
   flickr:
-  github: 
+  github: lemonchann 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -62,9 +63,9 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 1b80f97583d6ba724da4
-  clientSecret: 9884dc74d84e4deebfe004ca0fc0fdbf5897554b
-  repo: liudi5200.github.io
+  clientID: c3f1fc7e7188414ea7d5
+  clientSecret: cc3e73a269d94c2e7bcf0ebfd1ce62bf2038f613
+  repo: liudi.github5200.io
   owner: liudi5200
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
@@ -72,7 +73,7 @@ gitalk:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://liudi5200.github.io
+url: https://yinglili.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -117,4 +118,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
