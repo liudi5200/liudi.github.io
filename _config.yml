@@ -64,7 +64,7 @@ disqus: # fromendworld
 gitalk:
   clientID: a99dfb56e1a175aab016
   clientSecret: 59fb4e32e8a7be7d7db48280d4450c252710ab37
-  repo: liudi.github.io
+  repo: liudi5200.github.io
   owner: liudi5200
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
@@ -72,7 +72,7 @@ gitalk:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://liudi.github.io/
+url: https://liudi5200.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
