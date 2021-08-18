@@ -62,8 +62,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: a99dfb56e1a175aab016
-  clientSecret: 59fb4e32e8a7be7d7db48280d4450c252710ab37
+  clientID: 1b80f97583d6ba724da4
+  clientSecret: 9884dc74d84e4deebfe004ca0fc0fdbf5897554b
   repo: liudi5200.github.io
   owner: liudi5200
 
