@@ -128,36 +128,3 @@ layout: default
         }
     });
 </script>
-var curIndex = 0;
-
-var timeInterval = 3000; //切换时间 3秒  可以修改
-
-var arr = new Array();
-
-arr[0] = "https://i.ibb.co/QPr3NM2/92042129-p0-master1200.jpg"; //这里的是图片存放的相对路径
-
-arr[1] = "https://i.ibb.co/3St9dXK/photo-2021-08-12-18-51-28.jpg";
-
-arr[2] = "../img/cc.jpg";
-
-setInterval(changeImg, timeInterval);
-
- 
-
-function changeImg() {
-
-var obj = document.getElementById("picture");
-
-if(curIndex == arr.length - 1) {
-
-curIndex = 0;
-
-} else {
-
-curIndex += 1;
-
-}
-
-obj.src = arr[curIndex];
-
-}
